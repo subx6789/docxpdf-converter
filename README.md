@@ -40,11 +40,6 @@ To install DOCXPDF Converter, follow these steps:
    npm install
    ```
 
-4. Create `uploads` and `outputs` directories in the project root:
-   ```
-   mkdir uploads outputs
-   ```
-
 ## Usage
 
 To run DOCXPDF Converter, follow these steps:
